@@ -1,4 +1,4 @@
-Bootstrap 5 Template **"Studio Admin Hiji"**
+Bootstrap 5 Template **"Studio Admin Satu"**
 
 Features :
 - Bootstrap v5.0.1
